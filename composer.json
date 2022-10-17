@@ -1,0 +1,21 @@
+{
+    "name": "phpgif/ezgif",
+    "type": "library",
+    "homepage": "https://github.com/phpgif/ezgif",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phpgif",
+            "email": "phpgif@pm.me",
+            "homepage": "https://github.com/phpgif/phpgif"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "phpgif\\":"src/"
+        }
+    }
+}
