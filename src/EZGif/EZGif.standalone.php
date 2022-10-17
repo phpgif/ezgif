@@ -499,4 +499,8 @@ class EZGif {
             exit;
         }
     }
+    public function toFile($fileName) {
+        $gif = new GIFGenerator();
+        file_put_contents($fileName, $gif->generate($this->frames));
+    }
 }
