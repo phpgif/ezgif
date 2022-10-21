@@ -147,8 +147,8 @@ $ez->toFile('example.gif');
 ## License & Credits
 
 This software is published under the MIT License.
-###### Original Code
-phpgif is based off of [PHP-GIF](https://github.com/ErikvdVen/php-gif)
+###### phpgif
+This library uses [phpgif/phpgif](https://github.com/phpgif/phpgif).
 ###### GIFEncoder
 GIFEncoder.class.php is adapted from the GIFEncoder PHP class by László Zsidi.
 
