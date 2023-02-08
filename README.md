@@ -152,5 +152,5 @@ This library uses [phpgif/phpgif](https://github.com/phpgif/phpgif).
 ###### GIFEncoder
 GIFEncoder.class.php is adapted from the GIFEncoder PHP class by László Zsidi.
 
-
+&copy; 2023 mrfakename. All rights reserved.
 </div>
