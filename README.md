@@ -31,7 +31,7 @@ use phpgif\EZGif\EZGif
 
 ### Without Composer
 
-When using shared hosting, many hosting providers don't allow Composer. Use the following system to install PHP-GIF-Reborn.
+When using shared hosting, many hosting providers don't allow Composer. Use the following system to install EZGif:
 
 
 <div align="left">
